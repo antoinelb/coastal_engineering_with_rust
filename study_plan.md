@@ -1,11 +1,9 @@
-# 2-Month Coastal Engineering Study Plan for Data Scientists
+# Coastal Engineering Study Plan for Data Scientists
 ## 40 Hours Total | 5 Hours/Week | Rust + Numerical Methods + ML Applications
 
 ### Prerequisites & Setup (Before Week 1)
 - Install Rust toolchain: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
-- Set up VS Code with rust-analyzer extension
 - Install Python environment with coastal libraries: `pip install coastlib pybeach oceanlyz xarray netcdf4`
-- Create accounts for NDBC data access and GitHub
 
 ---
 
