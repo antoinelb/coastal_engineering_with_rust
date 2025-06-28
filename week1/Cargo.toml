@@ -1,0 +1,12 @@
+[package]
+name = "coastal_engineering_with_rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ndarray = "0.16.1"
+peroxide = "0.39.8"
+plotters = "0.3.7"
+serde = {version = "1.0.219", features = ["derive"]}
+serde_json = "1.0.140"
+clap = {version = "4.0", features = ["derive"]}
